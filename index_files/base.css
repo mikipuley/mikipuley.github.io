@@ -35,6 +35,7 @@ a:hover img.nofilter,
 #header .inn .hd-link li a:hover img {
     opacity: 1;
     filter: none;
+
 }
 
 html,
@@ -191,6 +192,7 @@ a:hover {
     background: url(/jp/common/img/head_bg.gif) repeat;
     position: relative;
     z-index: 2;
+    background-color: #131313;
 }
 
 #header .inn {
